@@ -1,3 +1,3 @@
-# tz_atcoder_closure
+# tz_atcoder_clojure
 
 .clj
