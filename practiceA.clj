@@ -1,4 +1,4 @@
-//practiceA.closure
+//practiceA.clj
 ##################################
 1
 2 3
