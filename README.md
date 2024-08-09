@@ -52,7 +52,14 @@
 ```
 ---
 ```
-
+(def x (read-line))
+(def ans (case x
+  "A" "T"
+  "T" "A"
+  "C" "G"
+  "G" "C"
+))
+(println ans)
 ```
 ---
 ```
